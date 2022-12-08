@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I am Ugur Aksoy
 - Currently: I am a Data Analyrics Co-op Student at Toronto School of Management.
