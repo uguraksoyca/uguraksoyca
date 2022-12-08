@@ -4,7 +4,7 @@ I am a data analyst with 9 years of working experience. I'm from Turkey, living 
 
 **What I'm Focusing on**
 
-Currently creating projects on Data Analysis with Python and Data Visualization with Tableau.
+Currently creating projects on Data Analysis with Python, Tableau.
 
 <!--
 **uguraksoyca/uguraksoyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
