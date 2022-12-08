@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a data analyst with 9 years of working experience. 
+- I am Ugur Akso
+- Currently: I am a Data Analyrics Co-op Student at Toronto School of Management.
+- Previously: Data Analyst at Limak Uludag Electric (an electricity untility company in Bursa/Turkey).
 
 <!--
 **uguraksoyca/uguraksoyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
