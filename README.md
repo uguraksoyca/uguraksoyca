@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Ugur Akso
+- I am Ugur Aksoy
 - Currently: I am a Data Analyrics Co-op Student at Toronto School of Management.
 - Previously: Data Analyst at Limak Uludag Electric (an electricity untility company in Bursa/Turkey).
 
