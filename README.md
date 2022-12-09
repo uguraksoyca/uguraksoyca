@@ -1,6 +1,6 @@
 ### Hi there! 👋, I am Ugur
 
-I am a data analyst with 9 years of working experience. I'm from Turkey, living in Toronto and currently studying Data analytics at Toronto School of Management. I need to complete a Capstone Project or work as a Co-op Intern to graduate. I have a passion for learning new concepts and tools in Data Science.
+I am a data analyst with 9 years of working experience. I'm from Turkey, living in Toronto and currently studying Data analytics at the Toronto School of Management. I need to complete a Capstone Project or work as a Co-op Intern to graduate. I have a passion for learning new concepts and tools in Data Science.
 
 **What I'm Focusing on**
 
