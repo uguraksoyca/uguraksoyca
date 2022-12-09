@@ -4,7 +4,7 @@ I am a data analyst with 9 years of working experience. I'm from Turkey, living 
 
 **What I'm Focusing on**
 
-Currently creating projects with Python and Tableau.
+Currently creating projects with Python - (Machine Learning and Regression Models).
 
 - 💬 Ask me about anything related to SQL and Excel
 
