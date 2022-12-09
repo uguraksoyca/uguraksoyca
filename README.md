@@ -6,7 +6,7 @@ I am a data analyst with 9 years of working experience. I'm from Turkey, living 
 
 Currently creating projects with Python and Tableau.
 
-- 💬 Ask me about anything related to SQL and EXCel
+- 💬 Ask me about anything related to SQL and Excel
 
 - 📫 How to reach me uguraksoy.ca@gmail.com
 
