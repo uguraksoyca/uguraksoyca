@@ -10,7 +10,7 @@ Currently creating projects with Python and Tableau.
 
 - How to reach me uguraksoy.ca@gmail.com
 
-- Fun fact: I love reading books , I love coffee , I love Gaming
+- ⚡Fun fact: I love reading books , I love coffee , I love Gaming
 
 <!--
 **uguraksoyca/uguraksoyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
