@@ -6,7 +6,7 @@ I am a data analyst with over 9 years of working experience.I'm from Turkey, liv
 
 Currently creating projects with Python - (Machine Learning and Regression Models) and Tableau.
 
-- 💬 Ask me about anything related to SQL and Excel
+- 💬 Ask me about anything related to SQL, Excel and Power BI
 
 - 📫 How to reach me uguraksoy.ca@gmail.com
 
